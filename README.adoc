@@ -1,6 +1,3 @@
-
-**Repo added to this https://github.com/WorkshopGitOpsInfra** organization, this is view-only.
-
 # Red Hat Workshop - ArgoCD Managing Infrastructure
 
 ## Introduction
@@ -17,6 +14,8 @@ _Manual Workshop Infra_ is a repository that includes a tutorial deployed on Git
 
 ## Workshop Infraestructure
 To complete this tutorial, we recommend using the https://github.com/WorkshopGitOpsInfra/workshop-gitops-infra-deploy[Workshop GitOps Infra Deploy] repository to deploy all the necessary infrastructure.
+
+Start reading here: https://workshopgitopsinfra.github.io/manual-workshop-infra/manual-workshop-infra/index.html
 
 ## Courseware official documentation
 
